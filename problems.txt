@@ -1,0 +1,9 @@
+1. https://leetcode.com/problems/valid-parentheses/description/
+2. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+3. https://leetcode.com/problems/intersection-of-two-arrays/description/
+4. https://leetcode.com/problems/find-the-difference/description/
+5. https://leetcode.com/problems/third-maximum-number/description/
+6. https://leetcode.com/problems/valid-anagram/description/
+7. https://leetcode.com/problems/two-sum/description/
+8. https://leetcode.com/problems/3sum/description/
+9. https://leetcode.com/problems/majority-element/description/ 
